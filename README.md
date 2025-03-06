@@ -247,7 +247,7 @@ Veritabanı yönetimi dersiyle veritabanı mühendisliğinin ilgilendiği konula
 Ders | Süre | Efor |  Tartışma
 :-- | :--: | :--: | :--:
 [Veritabanı Yönetimi (Database Management)](https://www.youtube.com/watch?v=pHKZw5EyTi4&list=PLh9ECzBB8tJOS7WQKdeUaAa5fmPLYAouD) | 20 video | 2 video/hafta |  [chat](https://discord.com/invite/BcqMBxPBME)
-[Ek Kaynak: Veritabanı Yönetimi (Erdinç Uzun)](https://www.youtube.com/watch?v=1xhO7dlSlwE&list=PLq4n-UisAJbIYbb7B-eE3deU_W1p6bPB4&index=1) | 1 video | - | [chat](https://discord.com/invite/BcqMBxPBME)
+[Ek Kaynak: Veritabanı Yönetimi (Erdinç Uzun)](https://www.youtube.com/playlist?list=PLq4n-UisAJbIYbb7B-eE3deU_W1p6bPB4 | 46 video | 4 video/hafta | [chat](https://discord.com/invite/BcqMBxPBME)
 [Ek Kaynak: Uygulamalarla SQL Öğreniyorum(Sertifikalı)](https://www.btkakademi.gov.tr/portal/course/uygulamalarla-sql-oegreniyorum-8249) |  |   | [chat](https://discord.com/invite/BcqMBxPBME)
 
 #### İşletim Sistemleri (Operating Systems)
